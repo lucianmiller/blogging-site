@@ -1,6 +1,6 @@
 # Blogging Site
 
-#### Divs. Spans and Box Model Practice for Epicodus, 2/3/2021
+#### Divs, Spans and Box Model Practice for Epicodus, 2/3/2021
 
 #### By Lucian Miller
 
