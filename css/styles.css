@@ -10,9 +10,17 @@
 .fun {
   color: darkslateblue;
   text-align: center;
+  margin: 12px;
+  border: 4px solid green;
+  padding: 4px;
+  background-color: lightblue;
 }
 
 .about {
-  color: teal;
+  color: rgb(24, 51, 51);
   text-align: center;
+  margin: 12px;
+  border: 4px solid yellow;
+  padding: 4px;
+  background-color: lightgreen;
 }
